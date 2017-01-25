@@ -1,0 +1,15 @@
+U:\CIS 308\02-Intro-SoftwareArch\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.exe.config
+U:\CIS 308\02-Intro-SoftwareArch\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.exe
+U:\CIS 308\02-Intro-SoftwareArch\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.pdb
+U:\CIS 308\02-Intro-SoftwareArch\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\02-Intro-SoftwareArch-Console.csprojResolveAssemblyReference.cache
+U:\CIS 308\02-Intro-SoftwareArch\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.exe
+U:\CIS 308\02-Intro-SoftwareArch\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.pdb
+U:\CIS 501\Lab 2 (501)\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.exe.config
+U:\CIS 501\Lab 2 (501)\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.exe
+U:\CIS 501\Lab 2 (501)\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.pdb
+U:\CIS 501\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.exe.config
+U:\CIS 501\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.exe
+U:\CIS 501\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.pdb
+U:\CIS 501\Lab 2\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.exe.config
+U:\CIS 501\Lab 2\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.exe
+U:\CIS 501\Lab 2\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.pdb
